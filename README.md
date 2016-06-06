@@ -1,17 +1,10 @@
 # flexbox101
 agcb trying to understand flexbox
-# 2048
+
 
 ### Contributions
-
-
 Many thanks to [thomaspark](https://github.com/thomaspark/flexboxfroggy), [Chris](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), and [estelle](https://github.com/estelle) for making things a bit more clear.
 
-### Screenshot
-
-
-
-Some thing goes here
 
 
 ## License
