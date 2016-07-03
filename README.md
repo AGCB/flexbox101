@@ -19,7 +19,5 @@ Many thanks to [thomaspark](https://github.com/thomaspark/flexboxfroggy), [Chris
 ## License
 flexbox101 is licensed under the [MIT license.](https://github.com/agcb/flexbox101/LICENSE.txt)
 
-## Donations
-I made this in my spare time, and it's hosted on GitHub .Thank you very much!
 
 
