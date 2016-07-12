@@ -40,21 +40,3 @@ Many thanks to [thomaspark](https://github.com/thomaspark/flexboxfroggy), [Chris
 ## License
 flexbox101 is licensed under the [MIT license.](https://github.com/agcb/flexbox101/LICENSE.txt)
 
-
-There are only so many things we can do to a parent w/ our code.
-.container {
-  display: flex; /* or inline-flex */
-}
-.container {
-  flex-direction: row | row-reverse | column | column-reverse;
-}
-.container{
-  flex-wrap: nowrap | wrap | wrap-reverse;
-}
-flex-flow: <‘flex-direction’> || <‘flex-wrap’>
-.container {
-  justify-content: flex-start | flex-end | center | space-between | space-around;
-}
-.container {
-  align-items: flex-start | flex-end | center | baseline | stretch;
-}
