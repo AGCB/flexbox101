@@ -1,13 +1,30 @@
 # flexbox101
 agcb trying to understand flexbox
 
-##Deciding on Ideas.
-A useful analogy for me has been a wooden box w/ a string tied across from one end
-to the other. Beads on the string represent the children.They are the plants or shoes strung on a telephone wire.
-We imagine the telephone wire as the Main Axis.... A vertical string would be called the Cross Axis.
+
+
+DISCLAIMER.. this document is for agcb only.. I am
+trying to teach myself flexbox and assume that no one
+would benefit from this besides myself. Much more informed
+people have written at length on the topic and I offer no useful
+insights. 
+This is for me to express myself only..
+thank you....
+
+##...like shoes hanging from Telephone Wires
+A useful analogy for me has been a wooden box w/ a 
+string tied across from one end to the other.
+Beads are hanging from the string like shoelaces on Electric Wires. 
+The Box is the Parent.
+The String is the Main Axis and the
+beads on the string represent the children.
 The Parent Container and It's Children.
-It's children that live on a wire.
+It's children that live on a string.
 This can be a way to categorize the flexboxLanguage. 
+
+Apparently web designers used to have to resort to "floats"
+in the past and other techniques that felt counter-intuitive.
+
 
 Starting on the next line i will lay out all possible declarations...
 #First the Parent Containers.
