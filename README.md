@@ -38,5 +38,7 @@ Many thanks to [thomaspark](https://github.com/thomaspark/flexboxfroggy), [Chris
 
 
 ## License
-flexbox101 is licensed under the [MIT license.](https://github.com/agcb/flexbox101/LICENSE.txt)
+flexbox documentation can be found at W3C](https://www.w3.org/TR/css-flexbox-1/)
+
+
 
