@@ -38,7 +38,7 @@ Many thanks to [thomaspark](https://github.com/thomaspark/flexboxfroggy), [Chris
 
 
 ## License
-flexbox documentation can be found at W3C](https://www.w3.org/TR/css-flexbox-1/)
+flexbox documentation can be found at [W3C](https://www.w3.org/TR/css-flexbox-1/)
 
 
 
