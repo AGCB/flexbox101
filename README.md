@@ -52,6 +52,8 @@ Starting on the next line i will lay out all possible declarations...
 ### Contributions
 Many thanks to [thomaspark](https://github.com/thomaspark/flexboxfroggy), [Chris](https://css-tricks.com/snippets/css/a-guide-to-flexbox/), and [estelle](https://github.com/estelle) for making things a bit more clear.
 
+I have also found this [CheatSheet] (http://www.sketchingwithcss.com/samplechapter/cheatsheet.html#center) online.
+
 
 
 ## License
