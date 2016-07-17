@@ -32,8 +32,10 @@ Starting on the next line i will lay out all possible declarations...
 <li>display: flex; /* or inline-flex */</li>
 <li>flex-direction: row | row-reverse | column | column-reverse;</li>
 <li>flex-wrap: nowrap | wrap | wrap-reverse;</li>
+
 <li>justify-content: flex-start | flex-end | center | space-between | space-around;</li>
 <li>align-items: flex-start | flex-end | center | baseline | stretch;</li>
+<li>flex-flow: row wrap;</li>
 </ol>
 
 #Now the Children.
@@ -42,10 +44,17 @@ Starting on the next line i will lay out all possible declarations...
 	<li>flex-grow: <number>; /* default 0 */</li>
 	<li>flex-shrink: <number>; /* default 1 */</li>
 	<li>flex-basis: <length> | auto; /* default auto */</li>
-	<li>flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]</li>
 	<li> align-self: auto | flex-start | flex-end | center | baseline | stretch;</li>
+	<li>flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]</li>
+
 </ol>
 
+# Both ending w/ the ShortHands
+<ul>
+	<li>One for the Children, and One for the Parent.</li>
+	<li>Flex direction and flex wrap can be combined with the shorthand property flex-flow</li>
+	<li>Grow, Shrink, and Basis can be done as simply....flex:</li>
+</ul>
 
 
 
