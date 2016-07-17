@@ -56,8 +56,8 @@ I have also found this [CheatSheet] (http://www.sketchingwithcss.com/samplechapt
 
 
 
-## License
-flexbox documentation can be found at [W3C](https://www.w3.org/TR/css-flexbox-1/)
+## Documentation
+flexbox docs can be found at [W3C](https://www.w3.org/TR/css-flexbox-1/)
 
 
 
