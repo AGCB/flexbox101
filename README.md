@@ -52,8 +52,8 @@ Starting on the next line i will lay out all possible declarations...
 # Both ending w/ the ShortHands
 <ul>
 	<li>One for the Children, and One for the Parent.</li>
-	<li>Flex direction and flex wrap can be combined with the shorthand property flex-flow</li>
-	<li>Grow, Shrink, and Basis can be done as simply....flex:</li>
+	<li>Flex direction and flex wrap can be combined with the shorthand property <b>flex-flow</b></li>
+	<li>Grow, Shrink, and Basis can be done as simply....<b>flex:</b></li>
 </ul>
 
 
