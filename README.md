@@ -3,13 +3,6 @@ agcb trying to understand flexbox
 
 
 
-DISCLAIMER.. this document is for agcb only.. I am
-trying to teach myself flexbox and assume that no one
-would benefit from this besides myself. Much more informed
-people have written at length on the topic and I offer no useful
-insights. 
-This is for me to express myself only..
-thank you....
 
 ##...like shoes hanging from Telephone Wires
 A useful analogy for me has been a wooden box w/ a 
