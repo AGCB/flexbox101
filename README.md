@@ -13,11 +13,9 @@ The String is the Main Axis and the
 beads on the string represent the children.
 The Parent Container and It's Children.
 It's children that live on a string.
-This can be a way to categorize the flexboxLanguage. 
 
-Apparently web designers used to have to resort to "floats"
-in the past and other techniques that felt counter-intuitive.
 
+This, with CSSGrid and the Box Module are the current and near-future.
 
 Starting on the next line i will lay out all possible declarations...
 #First the Parent Containers.
