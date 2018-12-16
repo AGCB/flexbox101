@@ -4,7 +4,7 @@ agcb trying to understand flexbox
 
 
 
-##...like shoes hanging from Telephone Wires
+## ...like shoes hanging from Telephone Wires
 A useful analogy for me has been a wooden box w/ a 
 string tied across from one end to the other.
 Beads are hanging from the string like shoelaces on Electric Wires. 
@@ -29,7 +29,7 @@ Starting on the next line i will lay out all possible declarations...
 <li>flex-flow: row wrap;</li>
 </ol>
 
-#Now the Children.
+# Now the Children.
 <ol>
 	<li>order: <integer>;</li>
 	<li>flex-grow: <number>; /* default 0 */</li>
